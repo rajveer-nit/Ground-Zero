@@ -78,6 +78,6 @@ Static files, so any static host works:
 - **GitHub Pages** — Settings → Pages → deploy from the `main` branch
 - **Vercel** / **Netlify** — import the repo, no build command needed
 
-## 📄 License
+<!--## 📄 License
 
-MIT — feel free to fork and adapt.
+MIT — feel free to fork and adapt.-->
